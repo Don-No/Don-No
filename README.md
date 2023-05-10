@@ -4,9 +4,9 @@ Hey there, I'm Thanh!🐸
 - 👨‍🎓 I'm currently studying at FPT University
 - 🔭My main area of focus is software engineering
 - 🤸‍♂ Hobbies is:
-      - cooking 🍳
-      - read comics 🦸‍♂
-      - music 🎧
+     - cooking 🍳
+     - read comics 🦸‍♂
+     - music 🎧
 - Welcome to my github page!!👋
 
 ## 🌐Socials
