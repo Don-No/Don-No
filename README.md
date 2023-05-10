@@ -6,7 +6,7 @@ Hey there, I'm Thanh!🐸
 - cooking 🍳
 - read comics 🦸‍♂
 - music 🎧
-Welcome to my github page!!👋
+- Welcome to my github page!!👋
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/t.52.0hz/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/t.52.0hz/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com.au/thahh2210/) 
