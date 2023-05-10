@@ -1,4 +1,4 @@
-![easy](https://www.sean-lloyd.com/assets/static/20210303-dino-game-6.8cbd2dc.4f377d819706628d9af0659786334303.gif)
+![easy](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sean-lloyd.com%2Fpost%2Fmaster-dino-game-chrome-cheat%2F&psig=AOvVaw3av0vozt3iyNpLMbX2aO42&ust=1683777286222000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCOh6rt6f4CFQAAAAAdAAAAABAY)
 # 💫About Me :
 Hey there, I'm Thanh!🐸
 - 👨‍🎓 I'm currently studying at FPT University
