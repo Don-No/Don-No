@@ -1,11 +1,12 @@
 # 💫About Me :
-Hey there, I'm Thanh!🐸
-👨‍🎓 I'm currently studying at FPT University
-🔭My main area of focus is software engineering
-🤸‍♂ hobbies is:
-         cooking 🍳
-         read comics 🦸‍♂
-         music 🎧
+<space><space>
+Hey there, I'm Thanh!🐸<space><space>
+👨‍🎓 I'm currently studying at FPT University<space><space>
+🔭My main area of focus is software engineering<space><space>
+🤸‍♂ hobbies is:<space><space>
+         cooking 🍳<space><space>
+         read comics 🦸‍♂<space><space>
+         music 🎧<space><space>
 Welcome to my github page!!👋
 
 ## 🌐Socials
