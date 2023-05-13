@@ -2,7 +2,7 @@
 # 💫About Me :
 Hey there, I'm Thanh!🐸
 - 👨‍🎓 I'm currently studying at FPT University
-- 🔭My main area of focus is software engineering
+- 🔭My main area of focus is Software Engineering
 - 🤸‍♂ Hobbies is:
      - cooking 🍳
      - read comics 🦸‍♂
